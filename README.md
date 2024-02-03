@@ -9,8 +9,8 @@ search: false
 📚 학습한 내용을 정리하는 Today I Learned
 
 ## 작성 규칙
-- Commit Convention은 상태 + 내용으로 구성합니다.
-  - `ex) Add Today I Learned`
+- Commit Convention은 `상태: 내용`으로 구성합니다.
+  - *ex) feat: Add Today I Learned*
 
 <br>
 
