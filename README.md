@@ -15,4 +15,4 @@
 ## 📚 카테고리
 
 ### 자료구조
-- [211005 / (번역) Measure, measure, measure](https://github.com/ksu3101/TIL/blob/master/Android/211005.md)
+- [해시(Hash)](./DataStructure/hash.md)
