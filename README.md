@@ -14,5 +14,8 @@
 
 ## 📚 카테고리
 
+### 데이터베이스
+- [트랜잭션(transaction)](./Database/transaction.md)
+
 ### 자료구조
 - [해시(Hash)](./DataStructure/hash.md)
